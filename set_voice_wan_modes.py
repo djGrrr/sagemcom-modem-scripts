@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 import asyncio
 from sagemcom_api.client import SagemcomClient
-from modem_config import *
+from config_modem import *
 
 async def main() -> None:
     async with await modem() as client:
