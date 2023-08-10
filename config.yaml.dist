@@ -1,0 +1,12 @@
+modem:
+  auth:
+    host: 192.168.2.1
+    user: admin
+    pass: pasword
+    method: SHA512 # MD5 | SHA512
+    ssl: true
+  wifi_radios:
+    - RADIO2G4
+    - RADIO5G
+    - RADIO6G
+  admz_mac: 01:23:45:67:89:AB

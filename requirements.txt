@@ -1,1 +1,2 @@
 git+https://github.com/djGrrr/python-sagemcom-api.git@master#egg=sagemcom_api
+pyyaml

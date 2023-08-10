@@ -9,9 +9,9 @@ Python 3.9+ required.
 ```bash
 pip install -r requirements.txt
 
-cp config_modem.py.dist config_modem.py
+cp config.yaml.dist config.yaml
 ```
 
 ## Configuration
 
-Edit the settings in `config_modem.py`
+Edit the settings in `config.yaml`
